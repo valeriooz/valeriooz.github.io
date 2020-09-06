@@ -13,6 +13,7 @@
 .pac-logo:after {
 	margin-right: 12px!important;
 	margin-top: 11px!important;
+	display: block!important;
 }
 
 .pac-item {
@@ -32,8 +33,4 @@
     margin-right: 13px!important;
     margin-top: -2px!important;
     vertical-align: middle!important;
-}
-
-.pac-logo:after {
-	display: block!important;
 }
